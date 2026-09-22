@@ -1,5 +1,7 @@
 Faisal Baroudi Tarfa
+
 Compañeros
+
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 **Objetivo:** Evaluar la capacidad de los alumnos para reconocer los elementos y herramientas que intervienen en el desarrollo de un programa informático, diferenciando los conceptos de código fuente, objeto y ejecutable, así como clasificar los lenguajes de programación (imperativos y declarativos).
